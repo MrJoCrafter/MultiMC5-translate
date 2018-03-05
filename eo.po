@@ -8,17 +8,17 @@ msgstr ""
 #: src/application/dialogs/AboutDialog.ui:20
 msgctxt "AboutDialog|"
 msgid "About MultiMC"
-msgstr ""
+msgstr "Pri MultiMC"
 
 #: src/application/dialogs/AboutDialog.ui:100
 msgctxt "AboutDialog|"
 msgid "About"
-msgstr ""
+msgstr "Pri"
 
 #: src/application/dialogs/AboutDialog.ui:106
 msgctxt "AboutDialog|"
 msgid "Version:"
-msgstr ""
+msgstr "Versio:"
 
 #: src/application/dialogs/AboutDialog.ui:216
 #| msgid ""
@@ -49,17 +49,17 @@ msgstr ""
 #: src/application/dialogs/AboutDialog.ui:116
 msgctxt "AboutDialog|"
 msgid "Platform:"
-msgstr ""
+msgstr "Platformo"
 
 #: src/application/dialogs/AboutDialog.ui:126
 msgctxt "AboutDialog|"
 msgid "Build Number:"
-msgstr ""
+msgstr "Konstrui Nombro:"
 
 #: src/application/dialogs/AboutDialog.ui:136
 msgctxt "AboutDialog|"
 msgid "Channel:"
-msgstr ""
+msgstr "Kanalo:"
 
 #: src/application/dialogs/AboutDialog.ui:149
 msgctxt "AboutDialog|"
@@ -67,18 +67,19 @@ msgid ""
 "<html><head/><body><p>MultiMC is a custom launcher that makes managing "
 "Minecraft easier by allowing you to have multiple instances of Minecraft at "
 "once.</p></body></html>"
-msgstr ""
+msgstr "<html><head/><body><p>MultiMC estas kutimo ĵetilo tio faras administri"
+"Minecraft pli facila per premesado vi havi multnombraj ekzemploj de Minecraft tuj</p></body></html>"
 
 #: src/application/dialogs/AboutDialog.ui:168
 #| msgid "© 2013-2015 MultiMC Contributors"
 msgctxt "AboutDialog|"
 msgid "© 2012-2017 MultiMC Contributors"
-msgstr ""
+msgstr "© 2012-2017 MultiMC Kontribuantoj"
 
 #: src/application/dialogs/AboutDialog.ui:207
 msgctxt "AboutDialog|"
 msgid "Credits"
-msgstr ""
+msgstr "Kreditoj"
 
 #. Hey, Translator, feel free to put credit to you here
 #: src/application/dialogs/AboutDialog.ui:230
